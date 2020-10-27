@@ -9,10 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Application {
     public static void main(String[] args) {
         SpringApplication.run(Application.class,args);
-        System.out.println("分之555");
-        System.out.println("分之哼");
-        System.out.println("ffff");
-        System.out.println("hhhhh");
+
 
     }
 }
