@@ -12,6 +12,7 @@ public class Application {
         System.out.println("分之555");
         System.out.println("分之哼");
         System.out.println("ffff");
+        System.out.println("hhhhh");
 
     }
 }
